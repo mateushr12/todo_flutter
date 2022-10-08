@@ -1,6 +1,6 @@
 # todo_list
 
-A new Flutter project.
+Projeto desenvolvido em flutter - app TODO
 
 ## Getting Started
 
